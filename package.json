@@ -1,0 +1,13 @@
+{
+  "name": "skills-hello-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build step'",
+    "test": "echo 'Test step'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
